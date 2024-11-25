@@ -13,4 +13,4 @@ for key in data:
         print(f"Помилка: {e} при обробці пари (key={key}, value={data[key]})")
 print(result)
 
-
+рзщ
